@@ -1,5 +1,7 @@
 # Machine Learning Operations (MLOps) Zoomcamp
 
+> **Status:** Course work for the MLOps Zoomcamp, DataTalks.Club. Last updated May 2025. Not actively maintained.
+
 This repository is dedicated to the **Machine Learning Operations (MLOps) Zoomcamp**, a hands-on course offered by [DataTalks.Club](https://datatalks.club/ ). The course focuses on bridging the gap between machine learning development and production by teaching best practices for deploying, monitoring, and managing ML models in real-world environments.
 
 ## What is MLOps?
